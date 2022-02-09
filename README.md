@@ -1,6 +1,6 @@
 # Introduction to Rust Tokio async library
 This is a toy server-client Rust application that uses `tokio` runtime.
-The purspose of this repo is simple introduction to the Rust
+The purspose of this repo is a simple introduction to the Rust
 `tokio` library different from the `hello Tokio`, `chat app`, or `echo server`. 
 
 This application consists of two parts: `server` and `client`.
